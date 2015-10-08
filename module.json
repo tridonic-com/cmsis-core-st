@@ -15,7 +15,10 @@
   "dependencies": {},
   "targetDependencies": {
     "stm32f4": {
-      "cmsis-core-stm32f4": "~0.4.0"
+      "cmsis-core-stm32f4": "tridonic-com/cmsis-core-stm32f4#tridonic"
+    },
+    "stm32f0": {
+      "cmsis-core-stm32f0": "tridonic-com/cmsis-core-stm32f0#tridonic"
     }
   }
 }
