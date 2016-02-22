@@ -1,6 +1,6 @@
 {
   "name": "cmsis-core-st",
-  "version": "1.0.0-tri-0.0.2",
+  "version": "1.0.0-tri-0.0.5",
   "description": "CMSIS Core Implementation for ST MCUs",
   "keywords": [
     "cmsis",
@@ -17,10 +17,10 @@
   "dependencies": {},
   "targetDependencies": {
     "stm32f4": {
-      "cmsis-core-stm32f4": "tridonic-com/cmsis-core-stm32f4#1.0.4-tri-0.0.2"
+      "cmsis-core-stm32f4": "tridonic-com/cmsis-core-stm32f4#1.0.4-tri-0.0.5"
     },
     "stm32f0": {
-      "cmsis-core-stm32f0": "tridonic-com/cmsis-core-stm32f0#0.0.0-tri-0.0.2"
+      "cmsis-core-stm32f0": "tridonic-com/cmsis-core-stm32f0#0.0.0-tri-0.0.5"
     }
   }
 }
