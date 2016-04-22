@@ -20,7 +20,7 @@
       "cmsis-core-stm32f4": "tridonic-com/cmsis-core-stm32f4#b1.2.0-tri-0.4.0"
     },
     "stm32f0": {
-      "cmsis-core-stm32f0": "tridonic-com/cmsis-core-stm32f0#0.0.0-tri-0.0.5"
+      "cmsis-core-stm32f0": "tridonic-com/cmsis-core-stm32f0#b0.0.1-tri-0.4.0"
     }
   }
 }
